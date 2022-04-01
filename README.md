@@ -1,10 +1,31 @@
 # Deep learning for scientific discovery
 
+## Methodical
+
+Metz et al., [Gradients are Not All You Need](https://arxiv.org/abs/2111.05803), 2021.
+
+Runge et al., [Detecting and quantifying causal associations in large nonlinear time series datasets](https://www.science.org/doi/10.1126/sciadv.aau4996), 2019.
+
 ## Weather and Climate Science
+
+Paula Harder et al., [Physics-Informed Learning of Aerosol Microphysics](), 
+
+Keisler, Ryan, [Forecasting Global Weather with Graph Neural Networks](https://arxiv.org/abs/2202.07575), 2022.
+
+Hatfield et al., [Building Tangent‐Linear and Adjoint Models for Data Assimilation With Neural Networks](https://www.researchgate.net/publication/353999784_Building_Tangent-Linear_and_Adjoint_Models_for_Data_Assimilation_With_Neural_Networks), 2021.
+
+Giladi, Niv et al., [Physics-Aware Downsampling with Deep Learning for Scalable Flood Modeling](https://arxiv.org/abs/2106.07218), 2021.
+
+Tesch et al., [Variant Approach for Identifying Spurious Relations That Deep Learning Models Learn](https://www.researchgate.net/publication/354580335_Variant_Approach_for_Identifying_Spurious_Relations_That_Deep_Learning_Models_Learn), 2021.
+
+
 
 ## Fluid Dynamics
 
-###### see also: <https://github.com/ikespand/awesome-machine-learning-fluid-mechanics>
+See also: <https://github.com/ikespand/awesome-machine-learning-fluid-mechanics>
+
+
+Kochkov et al., [Machine learning accelerated computational fluid dynamics](https://www.pnas.org/doi/10.1073/pnas.2101784118), 2021.
 
 Wang et al., [Towards Physics-Informed Deep Learning for Turbulent Flow Prediction](https://dl.acm.org/doi/10.1145/3394486.3403198), 2020. Code: <https://github.com/Rose-STL-Lab/Turbulent-Flow-Net>.
 
