@@ -1,6 +1,16 @@
 # Deep learning for scientific discovery
 
-## Methodical
+## Geometric DL
+
+Cohen et al., [Gauge Equivariant Convolutional Networks and the Icosahedral CNN](http://arxiv.org/abs/1902.04615), 2019.
+
+Weiler et al., [General E(2) - Equivariant Steerable CNNs](https://github.com/QUVA-Lab/e2cnn), 2019.
+
+Cohen et al., [A General Theory of Equivariant CNNs on Homogeneous Spaces](https://arxiv.org/abs/1811.02017v1), 2018.
+
+Risi Condor, [N-body Networks: a Covariant Hierarchical Neural Network Architecture for Learning Atomic Potentials](https://arxiv.org/pdf/1803.01588v1.pdf)
+
+## Foundations / Methods
 
 Metz et al., [Gradients are Not All You Need](https://arxiv.org/abs/2111.05803), 2021.
 
@@ -8,7 +18,7 @@ Runge et al., [Detecting and quantifying causal associations in large nonlinear 
 
 ## Weather and Climate Science
 
-Paula Harder et al., [Physics-Informed Learning of Aerosol Microphysics](), 
+Paula Harder et al., [Physics-Informed Learning of Aerosol Microphysics](),
 
 Keisler, Ryan, [Forecasting Global Weather with Graph Neural Networks](https://arxiv.org/abs/2202.07575), 2022.
 
@@ -18,12 +28,9 @@ Giladi, Niv et al., [Physics-Aware Downsampling with Deep Learning for Scalable 
 
 Tesch et al., [Variant Approach for Identifying Spurious Relations That Deep Learning Models Learn](https://www.researchgate.net/publication/354580335_Variant_Approach_for_Identifying_Spurious_Relations_That_Deep_Learning_Models_Learn), 2021.
 
-
-
 ## Fluid Dynamics
 
 See also: <https://github.com/ikespand/awesome-machine-learning-fluid-mechanics>
-
 
 Kochkov et al., [Machine learning accelerated computational fluid dynamics](https://www.pnas.org/doi/10.1073/pnas.2101784118), 2021.
 
