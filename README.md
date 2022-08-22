@@ -2,6 +2,10 @@
 
 ## Geometric DL
 
+Gerken et al., [Geometric Deep Learning and Equivariant Neural Networks](https://arxiv.org/pdf/2105.13926.pdf), 2021.
+
+Weiler et al., [Coordinate Independent Convolutional Networks - Isometry and Gauge Equivariant Convolutions on Riemannian Manifolds](https://arxiv.org/pdf/2106.06020), 2021.
+
 Cohen et al., [Gauge Equivariant Convolutional Networks and the Icosahedral CNN](http://arxiv.org/abs/1902.04615), 2019.
 
 Weiler et al., [General E(2) - Equivariant Steerable CNNs](https://github.com/QUVA-Lab/e2cnn), 2019.
@@ -53,6 +57,8 @@ Wang et al., [Incorporating Symmetry into Deep Dynamics Models for Improved Gene
 Walters et al., [Trajectory Prediction using Equivariant Continuous Convolution, 2020](https://arxiv.org/abs/2010.11344). Code: <https://github.com/Rose-STL-Lab/ECCO>.
 
 Cranmer et al., [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), 2020.
+
+Serviansky et al., [Set2Graph: Learning Graphs From Sets](https://arxiv.org/pdf/2002.08772.pdf), 2020.
 
 ## Chemistry
 
