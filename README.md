@@ -2,6 +2,14 @@
 
 ## Geometric DL
 
+Di Giovanni et al., [Graph Neural Networks as Gradient Flows](https://arxiv.org/abs/2206.10991), 2022.
+
+Bodnar et al., [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/pdf/2202.04579.pdf), 2022.
+
+Chamberlain et al., [Beltrami Flow and Neural Diffusion on Graphs](https://proceedings.neurips.cc/paper/2021/file/0cbed40c0d920b94126eaf5e707be1f5-Paper.pdf), 2021.
+
+Chamberlain et al., [GRAND: Graph Neural Diffusion](https://arxiv.org/abs/2106.10934), 2021. See also: <https://blog.twitter.com/engineering/en_us/topics/insights/2021/graph-neural-networks-as-neural-diffusion-pdes>.
+
 Gerken et al., [Geometric Deep Learning and Equivariant Neural Networks](https://arxiv.org/pdf/2105.13926.pdf), 2021.
 
 Weiler et al., [Coordinate Independent Convolutional Networks - Isometry and Gauge Equivariant Convolutions on Riemannian Manifolds](https://arxiv.org/pdf/2106.06020), 2021.
@@ -51,6 +59,8 @@ Brunton et al., [Modern Koopman Theory for Dynamical Systems](https://arxiv.org/
 Champion et al., [Data-driven discovery of coordinates and governing equations](https://arxiv.org/abs/1904.02107), 2019.
 
 ## Physics
+
+Sanchez-Gonzalez et al., [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/abs/2002.09405), 2020.
 
 Wang et al., [Incorporating Symmetry into Deep Dynamics Models for Improved Generalization](https://arxiv.org/abs/2002.03061), 2020. Code: <https://github.com/Rose-STL-Lab/Equivariant-Net>.
 
