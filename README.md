@@ -14,6 +14,8 @@ Gerken et al., [Geometric Deep Learning and Equivariant Neural Networks](https:/
 
 Weiler et al., [Coordinate Independent Convolutional Networks - Isometry and Gauge Equivariant Convolutions on Riemannian Manifolds](https://arxiv.org/pdf/2106.06020), 2021.
 
+Hansen et al., [Opinion Dynamics on Discourse Sheaves](https://arxiv.org/pdf/2005.12798.pdf), 2020.
+
 Cohen et al., [Gauge Equivariant Convolutional Networks and the Icosahedral CNN](http://arxiv.org/abs/1902.04615), 2019.
 
 Weiler et al., [General E(2) - Equivariant Steerable CNNs](https://github.com/QUVA-Lab/e2cnn), 2019.
