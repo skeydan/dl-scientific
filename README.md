@@ -32,7 +32,9 @@ Runge et al., [Detecting and quantifying causal associations in large nonlinear 
 
 ## Weather and Climate Science
 
-Paula Harder et al., [Physics-Informed Learning of Aerosol Microphysics](),
+Kashinath et al., [Physics-informed machine learning: Case studies for weather and climate modelling](https://www.researchgate.net/publication/349346849_Physics-informed_machine_learning_Case_studies_for_weather_and_climate_modelling).
+
+Paula Harder et al., [Physics-Informed Learning of Aerosol Microphysics](https://arxiv.org/abs/2207.11786), 2022.
 
 Keisler, Ryan, [Forecasting Global Weather with Graph Neural Networks](https://arxiv.org/abs/2202.07575), 2022.
 
@@ -62,16 +64,18 @@ Champion et al., [Data-driven discovery of coordinates and governing equations](
 
 ## Physics
 
-Sanchez-Gonzalez et al., [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/abs/2002.09405), 2020.
+Jiang et al., [MeshfreeFlowNet: A Physics-Constrained Deep Continuous Space-Time Super-Resolution Framework](https://arxiv.org/pdf/2005.01463.pdf). [PyTorch](https://github.com/maxjiang93/space_time_pde). CNNs, U-Net.
+
+Sanchez-Gonzalez et al., [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/abs/2002.09405), 2020. [Tensorflow 1.x, Sonnet 1.x and the Graph Nets 1.1](https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate). GNNs.
 
 Wang et al., [Incorporating Symmetry into Deep Dynamics Models for Improved Generalization](https://arxiv.org/abs/2002.03061), 2020. Code: <https://github.com/Rose-STL-Lab/Equivariant-Net>.
 
 Walters et al., [Trajectory Prediction using Equivariant Continuous Convolution, 2020](https://arxiv.org/abs/2010.11344). Code: <https://github.com/Rose-STL-Lab/ECCO>.
 
-Cranmer et al., [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), 2020.
+Cranmer et al., [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), 2020. [PyTorch Geometric, eureqa (replaceable)](https://github.com/MilesCranmer/symbolic_deep_learning). GNN, low-dimensional symbolic regression.
 
-Serviansky et al., [Set2Graph: Learning Graphs From Sets](https://arxiv.org/pdf/2002.08772.pdf), 2020.
+Serviansky et al., [Set2Graph: Learning Graphs From Sets](https://arxiv.org/pdf/2002.08772.pdf), 2020.[PyTorch Geometric](https://github.com/hadarser/SetToGraphPaper). Applications in particle physics.
 
 ## Chemistry
 
-Veselkov et al., [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y#citeas), 2019.
+Veselkov et al., [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y#citeas), 2019. [C++, Python](https://bitbucket.org/iAnalytica/drugs_container_public/src/master/). Random walk on graphs, SVM, CNN.
