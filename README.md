@@ -1,5 +1,13 @@
 # Deep learning for scientific discovery
 
+## Overviews
+
+
+Kashinath et al., [Physics-informed machine learning: Case studies for weather and climate modelling](https://www.researchgate.net/publication/349346849_Physics-informed_machine_learning_Case_studies_for_weather_and_climate_modelling).
+
+Willard et al., [Integrating Scientific Knowledge with Machine Learning for Engineering and Environmental Systems](https://arxiv.org/abs/2003.04919), 2020.
+
+
 ## Geometric DL
 
 Cesa et al., [A Program to Build E(N)-Equivariant Steerable CNNs](https://openreview.net/forum?id=WE4qe9xlnQw), 2022.
@@ -7,6 +15,8 @@ Cesa et al., [A Program to Build E(N)-Equivariant Steerable CNNs](https://openre
 Di Giovanni et al., [Graph Neural Networks as Gradient Flows](https://arxiv.org/abs/2206.10991), 2022.
 
 Bodnar et al., [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/pdf/2202.04579.pdf), 2022.
+
+Satorras et al., [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844), 2021.
 
 de Haan et al., [Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs](https://arxiv.org/abs/2003.05425), 2021.
 
@@ -37,8 +47,6 @@ Metz et al., [Gradients are Not All You Need](https://arxiv.org/abs/2111.05803),
 Runge et al., [Detecting and quantifying causal associations in large nonlinear time series datasets](https://www.science.org/doi/10.1126/sciadv.aau4996), 2019.
 
 ## Weather and Climate Science
-
-Kashinath et al., [Physics-informed machine learning: Case studies for weather and climate modelling](https://www.researchgate.net/publication/349346849_Physics-informed_machine_learning_Case_studies_for_weather_and_climate_modelling).
 
 Paula Harder et al., [Physics-Informed Learning of Aerosol Microphysics](https://arxiv.org/abs/2207.11786), 2022.
 
@@ -84,7 +92,7 @@ Champion et al., [Data-driven discovery of coordinates and governing equations](
 
 Jiang et al., [MeshfreeFlowNet: A Physics-Constrained Deep Continuous Space-Time Super-Resolution Framework](https://arxiv.org/pdf/2005.01463.pdf). [CNNs, U-Net.](https://github.com/maxjiang93/space_time_pde). 
 
-Sanchez-Gonzalez et al., [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/abs/2002.09405), 2020. [GNNs.](https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate).
+Sanchez-Gonzalez et al., [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/abs/2002.09405), 2020.
 
 Wang et al., [Incorporating Symmetry into Deep Dynamics Models for Improved Generalization](https://arxiv.org/abs/2002.03061), 2020. Code: <https://github.com/Rose-STL-Lab/Equivariant-Net>.
 
