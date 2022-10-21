@@ -74,7 +74,7 @@ Li et al., [Neural Operator: Graph Kernel Network for Partial Differential Equat
 
 Li et al., [Fourier neural operator for parametric partial differential equations](https://arxiv.org/pdf/2010.08895.pdf), 2021. [Spectral convolutions](https://github.com/zongyi-li/fourier_neural_operator). 
 
-Mohan et al., [Wavelet-Powered Neural Networks for Turbulence](https://www.climatechange.ai/papers/iclr2020/16), 2020. Wavelet Transform, Convolutional Long Short Term Memory (C-LSTM).
+Mohan et al., [Wavelet-Powered Neural Networks for Turbulence](https://www.climatechange.ai/papers/iclr2020/16), 2020.
 
 Wang et al., [Towards Physics-Informed Deep Learning for Turbulent Flow Prediction](https://dl.acm.org/doi/10.1145/3394486.3403198), 2020. Code: <https://github.com/Rose-STL-Lab/Turbulent-Flow-Net>.
 
@@ -90,7 +90,7 @@ Champion et al., [Data-driven discovery of coordinates and governing equations](
 
 ## Physics
 
-Jiang et al., [MeshfreeFlowNet: A Physics-Constrained Deep Continuous Space-Time Super-Resolution Framework](https://arxiv.org/pdf/2005.01463.pdf). [CNNs, U-Net.](https://github.com/maxjiang93/space_time_pde). 
+Jiang et al., [MeshfreeFlowNet: A Physics-Constrained Deep Continuous Space-Time Super-Resolution Framework](https://arxiv.org/pdf/2005.01463.pdf). Code: https://github.com/maxjiang93/space_time_pde. 
 
 Sanchez-Gonzalez et al., [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/abs/2002.09405), 2020.
 
@@ -98,10 +98,10 @@ Wang et al., [Incorporating Symmetry into Deep Dynamics Models for Improved Gene
 
 Walters et al., [Trajectory Prediction using Equivariant Continuous Convolution, 2020](https://arxiv.org/abs/2010.11344). Code: <https://github.com/Rose-STL-Lab/ECCO>.
 
-Cranmer et al., [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), 2020. [PyTorch Geometric, eureqa (replaceable)](https://github.com/MilesCranmer/symbolic_deep_learning). GNN, low-dimensional symbolic regression.
+Cranmer et al., [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), 2020. Code: https://github.com/MilesCranmer/symbolic_deep_learning.
 
-Serviansky et al., [Set2Graph: Learning Graphs From Sets](https://arxiv.org/pdf/2002.08772.pdf), 2020.[PyTorch Geometric](https://github.com/hadarser/SetToGraphPaper). Applications in particle physics.
+Serviansky et al., [Set2Graph: Learning Graphs From Sets](https://arxiv.org/pdf/2002.08772.pdf), 2020. Code: https://github.com/hadarser/SetToGraphPaper.
 
 ## Chemistry
 
-Veselkov et al., [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y#citeas), 2019. [ Random walk on graphs, SVM, CNN.](https://bitbucket.org/iAnalytica/drugs_container_public/src/master/).
+Veselkov et al., [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y#citeas), 2019. Code: https://bitbucket.org/iAnalytica/drugs_container_public/src/master.
