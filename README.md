@@ -2,35 +2,49 @@
 
 ## Overviews
 
-
 Kashinath et al., [Physics-informed machine learning: Case studies for weather and climate modelling](https://www.researchgate.net/publication/349346849_Physics-informed_machine_learning_Case_studies_for_weather_and_climate_modelling).
 
 Willard et al., [Integrating Scientific Knowledge with Machine Learning for Engineering and Environmental Systems](https://arxiv.org/abs/2003.04919), 2020.
 
-
 ## Geometric DL
+
+#### 2022
+
+- Topping et al., [Understanding over-squashing and bottlenecks on graphs via curvature](https://arxiv.org/abs/2111.14522), 2022. Code: https://github.com/jctops/understanding-oversquashing.
 
 Cesa et al., [A Program to Build E(N)-Equivariant Steerable CNNs](https://openreview.net/forum?id=WE4qe9xlnQw), 2022.
 
+Di Giovanni et al., [Heterogeneous manifolds for curvature-aware graph embedding](https://arxiv.org/abs/2202.01185), 2022.
+
 Di Giovanni et al., [Graph Neural Networks as Gradient Flows](https://arxiv.org/abs/2206.10991), 2022.
 
-Bodnar et al., [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/pdf/2202.04579.pdf), 2022.
+#### 2021
+
+Bodnar et al., [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/pdf/2202.04579.pdf), 2021. Code: https://github.com/twitter-research/neural-sheaf-diffusion.
+
+Bodnar et al., [Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks](https://arxiv.org/abs/2103.03212), 2021. Code: https://github.com/twitter-research/cwn.
+
+Bodnar et al., [Weisfeiler and Lehman Go Cellular: CW Networks](https://arxiv.org/abs/2106.12575), 2021. Code: https://github.com/twitter-research/cwn.
 
 Satorras et al., [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844), 2021.
 
 de Haan et al., [Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs](https://arxiv.org/abs/2003.05425), 2021.
 
-Chamberlain et al., [Beltrami Flow and Neural Diffusion on Graphs](https://proceedings.neurips.cc/paper/2021/file/0cbed40c0d920b94126eaf5e707be1f5-Paper.pdf), 2021.
+Chamberlain et al., [Beltrami Flow and Neural Diffusion on Graphs](https://proceedings.neurips.cc/paper/2021/file/0cbed40c0d920b94126eaf5e707be1f5-Paper.pdf), 2021. Code: https://github.com/twitter-research/graph-neural-pde.
 
-Chamberlain et al., [GRAND: Graph Neural Diffusion](https://arxiv.org/abs/2106.10934), 2021. See also: <https://blog.twitter.com/engineering/en_us/topics/insights/2021/graph-neural-networks-as-neural-diffusion-pdes>.
+Chamberlain et al., [GRAND: Graph Neural Diffusion](https://arxiv.org/abs/2106.10934), 2021. See also: <https://blog.twitter.com/engineering/en_us/topics/insights/2021/graph-neural-networks-as-neural-diffusion-pdes>. https://github.com/twitter-research/graph-neural-pde.
 
 Gerken et al., [Geometric Deep Learning and Equivariant Neural Networks](https://arxiv.org/pdf/2105.13926.pdf), 2021.
 
-Weiler et al., [Coordinate Independent Convolutional Networks - Isometry and Gauge Equivariant Convolutions on Riemannian Manifolds](https://arxiv.org/pdf/2106.06020), 2021.
+Weiler et al., [Coordinate Independent Convolutional Networks - Isometry and Gauge Equivariant Convolutions on Riemannian Manifolds](https://arxiv.org/pdf/2106.06020), 2021. Code: https://github.com/mauriceweiler/MobiusCNNs.
+
+#### 2020
 
 Hansen et al., [Opinion Dynamics on Discourse Sheaves](https://arxiv.org/pdf/2005.12798.pdf), 2020.
 
 Hansen et al., [Sheaf Neural Networks](https://arxiv.org/abs/2012.06333), 2020.
+
+#### < 2020
 
 Cohen et al., [Gauge Equivariant Convolutional Networks and the Icosahedral CNN](http://arxiv.org/abs/1902.04615), 2019.
 
@@ -62,8 +76,6 @@ Beucler et al., [Enforcing Analytic Constraints in Neural-Networks Emulating Phy
 
 Beucler et al., [Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling](https://arxiv.org/pdf/1906.06622.pdf), 2019.
 
-
-
 ## Fluid Dynamics
 
 See also: <https://github.com/ikespand/awesome-machine-learning-fluid-mechanics>
@@ -72,7 +84,7 @@ Kochkov et al., [Machine learning accelerated computational fluid dynamics](http
 
 Li et al., [Neural Operator: Graph Kernel Network for Partial Differential Equations](https://arxiv.org/abs/2003.03485), 2020.
 
-Li et al., [Fourier neural operator for parametric partial differential equations](https://arxiv.org/pdf/2010.08895.pdf), 2021. [Spectral convolutions](https://github.com/zongyi-li/fourier_neural_operator). 
+Li et al., [Fourier neural operator for parametric partial differential equations](https://arxiv.org/pdf/2010.08895.pdf), 2021. Code: <https://github.com/zongyi-li/fourier_neural_operator>.
 
 Mohan et al., [Wavelet-Powered Neural Networks for Turbulence](https://www.climatechange.ai/papers/iclr2020/16), 2020.
 
@@ -90,7 +102,7 @@ Champion et al., [Data-driven discovery of coordinates and governing equations](
 
 ## Physics
 
-Jiang et al., [MeshfreeFlowNet: A Physics-Constrained Deep Continuous Space-Time Super-Resolution Framework](https://arxiv.org/pdf/2005.01463.pdf). Code: https://github.com/maxjiang93/space_time_pde. 
+Jiang et al., [MeshfreeFlowNet: A Physics-Constrained Deep Continuous Space-Time Super-Resolution Framework](https://arxiv.org/pdf/2005.01463.pdf). Code: <https://github.com/maxjiang93/space_time_pde>.
 
 Sanchez-Gonzalez et al., [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/abs/2002.09405), 2020.
 
@@ -98,10 +110,12 @@ Wang et al., [Incorporating Symmetry into Deep Dynamics Models for Improved Gene
 
 Walters et al., [Trajectory Prediction using Equivariant Continuous Convolution, 2020](https://arxiv.org/abs/2010.11344). Code: <https://github.com/Rose-STL-Lab/ECCO>.
 
-Cranmer et al., [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), 2020. Code: https://github.com/MilesCranmer/symbolic_deep_learning.
+Cranmer et al., [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), 2020. Code: <https://github.com/MilesCranmer/symbolic_deep_learning>.
 
-Serviansky et al., [Set2Graph: Learning Graphs From Sets](https://arxiv.org/pdf/2002.08772.pdf), 2020. Code: https://github.com/hadarser/SetToGraphPaper.
+Cranmer et al., [Lagrangian Neural Networks](https://arxiv.org/abs/2003.04630), 2020.
+
+Serviansky et al., [Set2Graph: Learning Graphs From Sets](https://arxiv.org/pdf/2002.08772.pdf), 2020. Code: <https://github.com/hadarser/SetToGraphPaper>.
 
 ## Chemistry
 
-Veselkov et al., [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y#citeas), 2019. Code: https://bitbucket.org/iAnalytica/drugs_container_public/src/master.
+Veselkov et al., [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y#citeas), 2019. Code: <https://bitbucket.org/iAnalytica/drugs_container_public/src/master>.
