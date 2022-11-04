@@ -12,7 +12,7 @@ Willard et al., [Integrating Scientific Knowledge with Machine Learning for Engi
 
 - Topping et al., [Understanding over-squashing and bottlenecks on graphs via curvature](https://arxiv.org/abs/2111.14522), 2022. Code: https://github.com/jctops/understanding-oversquashing.
 
-Cesa et al., [A Program to Build E(N)-Equivariant Steerable CNNs](https://openreview.net/forum?id=WE4qe9xlnQw), 2022.
+Cesa et al., [A Program to Build E(N)-Equivariant Steerable CNNs](https://openreview.net/forum?id=WE4qe9xlnQw), 2022. Code: https://github.com/QUVA-Lab/escnn.
 
 Di Giovanni et al., [Heterogeneous manifolds for curvature-aware graph embedding](https://arxiv.org/abs/2202.01185), 2022.
 
@@ -79,10 +79,6 @@ Beucler et al., [Achieving Conservation of Energy in Neural Network Emulators fo
 ## Fluid Dynamics
 
 See also: <https://github.com/ikespand/awesome-machine-learning-fluid-mechanics>
-
-Kochkov et al., [Machine learning accelerated computational fluid dynamics](https://www.pnas.org/doi/10.1073/pnas.2101784118), 2021.
-
-Li et al., [Neural Operator: Graph Kernel Network for Partial Differential Equations](https://arxiv.org/abs/2003.03485), 2020.
 
 Li et al., [Fourier neural operator for parametric partial differential equations](https://arxiv.org/pdf/2010.08895.pdf), 2021. Code: <https://github.com/zongyi-li/fourier_neural_operator>.
 
