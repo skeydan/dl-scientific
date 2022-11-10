@@ -12,13 +12,13 @@ Willard et al., [Integrating Scientific Knowledge with Machine Learning for Engi
 
 Barbero et al., [Sheaf Neural Networks with Connection Laplacians](https://ui.adsabs.harvard.edu/abs/2022arXiv220608702B), 2022.
 
-Topping et al., [Understanding over-squashing and bottlenecks on graphs via curvature](https://arxiv.org/abs/2111.14522), 2022. Code: https://github.com/jctops/understanding-oversquashing.
+Topping et al., [Understanding over-squashing and bottlenecks on graphs via curvature](https://arxiv.org/abs/2111.14522), 2022. Code: https://github.com/jctops/understanding-oversquashing. Post: https://towardsdatascience.com/over-squashing-bottlenecks-and-graph-ricci-curvature-c238b7169e16?sk=f5cf01cbd57b4fee8fb3a89d447e56a9.
 
 Cesa et al., [A Program to Build E(N)-Equivariant Steerable CNNs](https://openreview.net/forum?id=WE4qe9xlnQw), 2022. Code: https://github.com/QUVA-Lab/escnn.
 
 Di Giovanni et al., [Heterogeneous manifolds for curvature-aware graph embedding](https://arxiv.org/abs/2202.01185), 2022.
 
-Di Giovanni et al., [Graph Neural Networks as Gradient Flows](https://arxiv.org/abs/2206.10991), 2022.
+Di Giovanni et al., [Graph Neural Networks as Gradient Flows](https://arxiv.org/abs/2206.10991), 2022. Post: https://towardsdatascience.com/graph-neural-networks-as-gradient-flows-4dae41fb2e8a?gi=e4721740e355.
 
 #### 2021
 
