@@ -10,7 +10,9 @@ Willard et al., [Integrating Scientific Knowledge with Machine Learning for Engi
 
 #### 2022
 
-- Topping et al., [Understanding over-squashing and bottlenecks on graphs via curvature](https://arxiv.org/abs/2111.14522), 2022. Code: https://github.com/jctops/understanding-oversquashing.
+Barbero et al., [Sheaf Neural Networks with Connection Laplacians](https://ui.adsabs.harvard.edu/abs/2022arXiv220608702B), 2022.
+
+Topping et al., [Understanding over-squashing and bottlenecks on graphs via curvature](https://arxiv.org/abs/2111.14522), 2022. Code: https://github.com/jctops/understanding-oversquashing.
 
 Cesa et al., [A Program to Build E(N)-Equivariant Steerable CNNs](https://openreview.net/forum?id=WE4qe9xlnQw), 2022. Code: https://github.com/QUVA-Lab/escnn.
 
@@ -20,6 +22,8 @@ Di Giovanni et al., [Graph Neural Networks as Gradient Flows](https://arxiv.org/
 
 #### 2021
 
+Suk et al., [Mesh convolutional neural networks for wall shear stress estimation in 3D artery models](https://arxiv.org/abs/2109.04797), 2021. Code: https://github.com/sukjulian/coronary-mesh-convolution.
+
 Bodnar et al., [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs](https://arxiv.org/pdf/2202.04579.pdf), 2021. Code: https://github.com/twitter-research/neural-sheaf-diffusion.
 
 Bodnar et al., [Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks](https://arxiv.org/abs/2103.03212), 2021. Code: https://github.com/twitter-research/cwn.
@@ -28,7 +32,7 @@ Bodnar et al., [Weisfeiler and Lehman Go Cellular: CW Networks](https://arxiv.or
 
 Satorras et al., [E(n) Equivariant Graph Neural Networks](https://arxiv.org/abs/2102.09844), 2021.
 
-de Haan et al., [Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs](https://arxiv.org/abs/2003.05425), 2021.
+de Haan et al., [Gauge Equivariant Mesh CNNs: Anisotropic convolutions on geometric graphs](https://arxiv.org/abs/2003.05425), 2021. Code: https://github.com/Qualcomm-AI-research/gauge-equivariant-mesh-cnn.
 
 Chamberlain et al., [Beltrami Flow and Neural Diffusion on Graphs](https://proceedings.neurips.cc/paper/2021/file/0cbed40c0d920b94126eaf5e707be1f5-Paper.pdf), 2021. Code: https://github.com/twitter-research/graph-neural-pde.
 
@@ -58,13 +62,15 @@ Risi Condor, [N-body Networks: a Covariant Hierarchical Neural Network Architect
 
 Metz et al., [Gradients are Not All You Need](https://arxiv.org/abs/2111.05803), 2021.
 
-Runge et al., [Detecting and quantifying causal associations in large nonlinear time series datasets](https://www.science.org/doi/10.1126/sciadv.aau4996), 2019.
+Runge et al., [Detecting and quantifying causal associations in large nonlinear time series datasets](https://www.science.org/doi/10.1126/sciadv.aau4996), 2019. Code: https://github.com/jakobrunge/tigramite. See also: https://www.nature.com/articles/s41467-019-10105-3.
 
 ## Weather and Climate Science
 
-Paula Harder et al., [Physics-Informed Learning of Aerosol Microphysics](https://arxiv.org/abs/2207.11786), 2022.
+Paula Harder et al., [Physics-Informed Learning of Aerosol Microphysics](https://arxiv.org/abs/2207.11786), 2022. https://github.com/paulaharder/aerosol-microphysics-emulation.
 
 Keisler, Ryan, [Forecasting Global Weather with Graph Neural Networks](https://arxiv.org/abs/2202.07575), 2022.
+
+Beucler et al., [Climate-Invariant Machine Learning](https://arxiv.org/abs/2112.08440), 2021. Code: https://github.com/tbeucler/CBRAIN-CAM. (sic!)
 
 Hatfield et al., [Building Tangent‐Linear and Adjoint Models for Data Assimilation With Neural Networks](https://www.researchgate.net/publication/353999784_Building_Tangent-Linear_and_Adjoint_Models_for_Data_Assimilation_With_Neural_Networks), 2021.
 
@@ -72,9 +78,9 @@ Giladi, Niv et al., [Physics-Aware Downsampling with Deep Learning for Scalable 
 
 Tesch et al., [Variant Approach for Identifying Spurious Relations That Deep Learning Models Learn](https://www.researchgate.net/publication/354580335_Variant_Approach_for_Identifying_Spurious_Relations_That_Deep_Learning_Models_Learn), 2021.
 
-Beucler et al., [Enforcing Analytic Constraints in Neural-Networks Emulating Physical Systems](https://arxiv.org/pdf/1909.00912.pdf), 2019.
+Beucler et al., [Enforcing Analytic Constraints in Neural-Networks Emulating Physical Systems](https://arxiv.org/pdf/1909.00912.pdf), 2019. Code: https://github.com/tbeucler/CBRAIN-CAM. (sic!)
 
-Beucler et al., [Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling](https://arxiv.org/pdf/1906.06622.pdf), 2019.
+Beucler et al., [Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling](https://arxiv.org/pdf/1906.06622.pdf), 2019. Code: https://github.com/tbeucler/CBRAIN-CAM. (sic!)
 
 ## Fluid Dynamics
 
@@ -108,7 +114,7 @@ Walters et al., [Trajectory Prediction using Equivariant Continuous Convolution,
 
 Cranmer et al., [Discovering Symbolic Models from Deep Learning with Inductive Biases](https://arxiv.org/abs/2006.11287), 2020. Code: <https://github.com/MilesCranmer/symbolic_deep_learning>.
 
-Cranmer et al., [Lagrangian Neural Networks](https://arxiv.org/abs/2003.04630), 2020.
+Cranmer et al., [Lagrangian Neural Networks](https://arxiv.org/abs/2003.04630), 2020. Code: https://github.com/MilesCranmer/lagrangian_nns.
 
 Serviansky et al., [Set2Graph: Learning Graphs From Sets](https://arxiv.org/pdf/2002.08772.pdf), 2020. Code: <https://github.com/hadarser/SetToGraphPaper>.
 
