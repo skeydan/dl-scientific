@@ -86,6 +86,8 @@ Beucler et al., [Achieving Conservation of Energy in Neural Network Emulators fo
 
 See also: <https://github.com/ikespand/awesome-machine-learning-fluid-mechanics>
 
+Suk et al., [Mesh Neural Networks for SE(3)-Equivariant Hemodynamics Estimation on the Artery Wall](https://arxiv.org/abs/2212.05023), 2022.
+
 Li et al., [Fourier neural operator for parametric partial differential equations](https://arxiv.org/pdf/2010.08895.pdf), 2021. Code: <https://github.com/zongyi-li/fourier_neural_operator>.
 
 Mohan et al., [Wavelet-Powered Neural Networks for Turbulence](https://www.climatechange.ai/papers/iclr2020/16), 2020.
