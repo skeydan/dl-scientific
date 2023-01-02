@@ -123,3 +123,9 @@ Serviansky et al., [Set2Graph: Learning Graphs From Sets](https://arxiv.org/pdf/
 ## Chemistry
 
 Veselkov et al., [HyperFoods: Machine intelligent mapping of cancer-beating molecules in foods](https://www.nature.com/articles/s41598-019-45349-y#citeas), 2019. Code: <https://bitbucket.org/iAnalytica/drugs_container_public/src/master>.
+
+## Neuroscience
+
+Howard et al., [Formal models of memory based on temporally-varying representations](https://arxiv.org/abs/2201.01796), 2022.
+
+Howard et al., [Cognitive computation using neural representations of time and space in the Laplace domain](https://arxiv.org/abs/2003.11668), 2020.
