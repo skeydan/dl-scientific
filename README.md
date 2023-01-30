@@ -72,11 +72,15 @@ Keisler, Ryan, [Forecasting Global Weather with Graph Neural Networks](https://a
 
 Beucler et al., [Climate-Invariant Machine Learning](https://arxiv.org/abs/2112.08440), 2021. Code: https://github.com/tbeucler/CBRAIN-CAM. (sic!)
 
+L. Scheck, [A neural network based forward operator for visible satellite images and its adjoint](https://www.sciencedirect.com/science/article/pii/S0022407321003344?via%3Dihub), 2021.
+
 Hatfield et al., [Building Tangent‐Linear and Adjoint Models for Data Assimilation With Neural Networks](https://www.researchgate.net/publication/353999784_Building_Tangent-Linear_and_Adjoint_Models_for_Data_Assimilation_With_Neural_Networks), 2021.
 
 Giladi, Niv et al., [Physics-Aware Downsampling with Deep Learning for Scalable Flood Modeling](https://arxiv.org/abs/2106.07218), 2021.
 
 Tesch et al., [Variant Approach for Identifying Spurious Relations That Deep Learning Models Learn](https://www.researchgate.net/publication/354580335_Variant_Approach_for_Identifying_Spurious_Relations_That_Deep_Learning_Models_Learn), 2021.
+
+Rodríguez-Fernández et al., [SMOS Neural Network Soil Moisture Data Assimilation in a Land Surface Model and Atmospheric Impact](https://www.mdpi.com/2072-4292/11/11/1334), 2019.
 
 Beucler et al., [Enforcing Analytic Constraints in Neural-Networks Emulating Physical Systems](https://arxiv.org/pdf/1909.00912.pdf), 2019. Code: https://github.com/tbeucler/CBRAIN-CAM. (sic!)
 
