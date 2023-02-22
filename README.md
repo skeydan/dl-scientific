@@ -66,11 +66,15 @@ Runge et al., [Detecting and quantifying causal associations in large nonlinear 
 
 ## Weather and Climate Science
 
+Farokhmanesh et al., [Deep Learning–Based Parameter Transfer in Meteorological Data] (https://journals.ametsoc.org/view/journals/aies/2/1/AIES-D-22-0024.1.xml), 2023.
+
 Quinting & Grams, [EuLerian Identification of ascending AirStreams (ELIAS 2.0) in numerical weather prediction and climate models – Part 1: Development of deep learning model](https://gmd.copernicus.org/articles/15/715/2022/), 2022.
 
 Paula Harder et al., [Physics-Informed Learning of Aerosol Microphysics](https://arxiv.org/abs/2207.11786), 2022. https://github.com/paulaharder/aerosol-microphysics-emulation.
 
 Keisler, Ryan, [Forecasting Global Weather with Graph Neural Networks](https://arxiv.org/abs/2202.07575), 2022.
+
+Kriegmair et al., [Using neural networks to improve simulations in the gray zone](https://www.researchgate.net/publication/351635612_Using_neural_networks_to_improve_simulations_in_the_gray_zone), 2021.
 
 Beucler et al., [Climate-Invariant Machine Learning](https://arxiv.org/abs/2112.08440), 2021. Code: https://github.com/tbeucler/CBRAIN-CAM. (sic!)
 
