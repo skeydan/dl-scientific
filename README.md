@@ -66,6 +66,8 @@ Runge et al., [Detecting and quantifying causal associations in large nonlinear 
 
 ## Weather and Climate Science
 
+Quinting & Grams, [EuLerian Identification of ascending AirStreams (ELIAS 2.0) in numerical weather prediction and climate models – Part 1: Development of deep learning model](https://gmd.copernicus.org/articles/15/715/2022/), 2022.
+
 Paula Harder et al., [Physics-Informed Learning of Aerosol Microphysics](https://arxiv.org/abs/2207.11786), 2022. https://github.com/paulaharder/aerosol-microphysics-emulation.
 
 Keisler, Ryan, [Forecasting Global Weather with Graph Neural Networks](https://arxiv.org/abs/2202.07575), 2022.
