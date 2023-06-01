@@ -8,6 +8,15 @@ Willard et al., [Integrating Scientific Knowledge with Machine Learning for Engi
 
 ## Geometric DL
 
+
+#### 2023
+
+Hajij et al., [Topological Deep Learning: Going Beyond Graph Data](https://arxiv.org/pdf/2206.00606.pdf), 2023.
+
+Brehmer et al, [Geometric Algebra Transformers](https://arxiv.org/pdf/2305.18415.pdf), 2023.
+
+Di Giovanni et al., [Understanding convolution on graphs via energies](https://arxiv.org/abs/2206.10991), 2023.
+
 #### 2022
 
 Barbero et al., [Sheaf Neural Networks with Connection Laplacians](https://ui.adsabs.harvard.edu/abs/2022arXiv220608702B), 2022.
